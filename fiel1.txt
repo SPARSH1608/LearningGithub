@@ -12,7 +12,12 @@ where we prepare our code for final version
 
 git commit se hum files staging area ki files ka ek version banate hain
 
+u-untracked
+a-satging aream-modified
+git rm --cached <file>..." to unstage
 
-
-
+stage karne ke baad git commit fr i se insert aayega then message likhna hai and fr esc press karne ke baad :wq (write and quit)
+and then enter
 version 
+git log se dikhta hai kon konse version banaye hain
+modified files ko bhi staging area me daalte hain
