@@ -1,0 +1,18 @@
+git init - initalise git repositories
+git status - konsi file ka kya status hai tracked/untracked
+
+create versions
+all files first go to untracked  area 
+git add se files untracked area se staging area me jaati hain
+
+
+
+staging area
+where we prepare our code for final version
+
+git commit se hum files staging area ki files ka ek version banate hain
+
+
+
+
+version 
