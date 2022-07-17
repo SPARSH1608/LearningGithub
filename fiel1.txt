@@ -21,3 +21,5 @@ and then enter
 version 
 git log se dikhta hai kon konse version banaye hain
 modified files ko bhi staging area me daalte hain
+
+use "git restore --staged <file>..." to unstage
